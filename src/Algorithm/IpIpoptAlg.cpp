@@ -1054,7 +1054,7 @@ void IpoptAlgorithm::print_copyright_message(
 {
    jnlst.Printf(J_INSUPPRESSIBLE, J_MAIN,
                 "\n******************************************************************************\n"
-                "This program contains Ipopt, a library for large-scale nonlinear optimization.\n"
+                "I was here. This program contains Ipopt, a library for large-scale nonlinear optimization.\n"
                 " Ipopt is released as open source code under the Eclipse Public License (EPL).\n"
                 "         For more information visit https://github.com/coin-or/Ipopt\n"
                 "******************************************************************************\n\n");
